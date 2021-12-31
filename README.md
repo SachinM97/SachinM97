@@ -10,5 +10,5 @@
 
 
 
-[![LinkedinGIF](https://user-images.githubusercontent.com/33877524/147833539-ec45b47e-f632-4102-8674-2e30dd9edd9a.gif)](https://www.linkedin.com/in/sachin-mehndiratta28/) [![InstagramLogoGIF](https://user-images.githubusercontent.com/33877524/147833634-b7c813d9-f590-47d3-a459-39804049fc69.gif)](https://www.instagram.com/sachinmehndiratta__/)
+[![LinkedinGIF](https://user-images.githubusercontent.com/33877524/147833539-ec45b47e-f632-4102-8674-2e30dd9edd9a.gif)](https://www.linkedin.com/in/sachin-mehndiratta28/)
 
